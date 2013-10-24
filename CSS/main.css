@@ -1,0 +1,84 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #03280e;
+	background-color: #fff;
+	margin: 0px;
+}
+#page {
+	background-color: #FFF;
+	border: 1px solid #1e873e;
+	padding: 0px;
+	width: 960px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#header {
+	background-image: url(../images/bg_header.jpg);
+	background-repeat: no-repeat;
+	height: 173px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#footer {
+	text-align: center;
+	font-size: 12px;
+	padding: 15px;
+}
+
+#mainnav {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+#navigation ul {
+	margin: 0px;
+	padding: 0px;
+	float: none;
+	overflow: hidden;
+}
+#navigation a {
+	display: block;
+	height: 33px;
+	margin-right: 10px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	font-size: 18px;
+	color: #FFF;
+	text-decoration: none;
+	background-color: #198f3e;
+	background-image: url(../images/bg_nav_a.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+	line-height: 33px;
+}
+#navigation a:hover {
+	background-image: url(../images/bg_nav_a_hover.jpg);
+}
+#navigation ul li {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	overflow: hidden;
+	float: left;
+}
+#content {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#logo {
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+}
